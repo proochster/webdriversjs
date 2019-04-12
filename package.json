@@ -1,0 +1,28 @@
+{
+  "name": "webdriversjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proochster/webdriversjs.git"
+  },
+  "keywords": [
+    "selenium",
+    "webdrivers",
+    "js"
+  ],
+  "author": "proochster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proochster/webdriversjs/issues"
+  },
+  "homepage": "https://github.com/proochster/webdriversjs#readme"
+}
