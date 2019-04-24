@@ -1,4 +1,6 @@
 const webdriver = require('selenium-webdriver');
+
+// Browser options: firefox, chrome
 const driver = new webdriver.Builder().forBrowser('chrome').build();
 
 // Open page

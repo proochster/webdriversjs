@@ -1,9 +1,10 @@
 {
-  "name": "webdriversjs",
+  "name": "selenium-webdriversjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple test setup using Selenium, Webdrivers and Javascript",
   "main": "test.js",
   "dependencies": {
+    "global": "^4.3.2",
     "selenium-webdriver": "^4.0.0-alpha.1"
   },
   "devDependencies": {},
